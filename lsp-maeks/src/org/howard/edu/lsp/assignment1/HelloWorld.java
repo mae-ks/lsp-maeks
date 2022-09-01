@@ -2,7 +2,6 @@ package org.howard.edu.lsp.assignment1;
 
 //Mae Kyaw San
 //@author mae-ks
-//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
 
 public class HelloWorld {
 
