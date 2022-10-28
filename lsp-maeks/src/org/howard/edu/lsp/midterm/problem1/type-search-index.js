@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.howard.edu.lsp.midterm.problem1","l":"UnknownCandidateException"},{"p":"org.howard.edu.lsp.midterm.problem1","l":"VotingMachine"},{"p":"org.howard.edu.lsp.midterm.problem1","l":"VotingMachineTest"}];updateSearchResults();
