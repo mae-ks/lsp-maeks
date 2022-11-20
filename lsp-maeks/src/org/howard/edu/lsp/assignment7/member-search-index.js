@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"org.howard.edu.lsp.assignment7","c":"AverageGradesTest","l":"AverageGradesTest()","u":"%3Cinit%3E()"},{"p":"org.howard.edu.lsp.assignment7","c":"AverageGradesTest","l":"testAlgo1()"},{"p":"org.howard.edu.lsp.assignment7","c":"AverageGradesTest","l":"testAlgo2()"}];updateSearchResults();
